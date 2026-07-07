@@ -1,6 +1,6 @@
-import { globalStyles } from './styles/globalStyles';
+import { globalStyles } from '../styles/globalStyles';
 import { Text, ScrollView } from 'react-native';
-import HomeHeader from './components/HomeHeader';
+import HomeHeader from '../components/HomeHeader';
 
 export default function HomeScreen() {
   return (
